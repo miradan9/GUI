@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<curriculum>
+    <empleados>
+        <empleado>
+            <nombre>Valeria Aguayo</nombre>
+            <direccion>Atlacomulco</direccion>
+            <fecha>09/04/03</fecha>
+            <telefono>7121723986</telefono>
+            <estudios>Licenciatura en Ingeniería en Computación</estudios>
+            <idiomas>Inglés</idiomas>
+        </empleado>
+        <empleado>
+            <nombre>Julio Mendoza</nombre>
+            <direccion>Puebla</direccion>
+            <fecha>14/06/74</fecha>
+            <telefono>59815236986</telefono>
+            <estudios>Ingeniería Química</estudios>
+            <idiomas>Inglés y Frances </idiomas>
+        </empleado>
+        <empleado>
+            <nombre>Rogelio Trejo</nombre>
+            <direccion>Hidalgo</direccion>
+            <fecha>25/08/03</fecha>
+            <telefono>7128957412</telefono>
+            <estudios>Enfermería</estudios>
+            <idiomas>Inglés</idiomas>
+        </empleado>
+        <empleado>
+            <nombre>Javier Roa</nombre>
+            <direccion>Toluca</direccion>
+            <fecha>15/09/00</fecha>
+            <telefono>71281624765</telefono>
+            <estudios>Economía</estudios>
+            <idiomas>Inglés</idiomas>
+        </empleado>
+        <empleado>
+            <nombre>Rut Martinez</nombre>
+            <direccion>Tlaxcala</direccion>
+            <fecha>10/04/01</fecha>
+            <telefono>7121723986</telefono>
+            <estudios>Ingeniería Agroindustrial</estudios>
+            <idiomas>NA</idiomas>
+        </empleado>
+    </empleados>
+</curriculum>
